@@ -1,0 +1,7 @@
+#Entorno virtual
+myenv/
+.myenv/
+.myenv
+
+#Secrets
+.env
